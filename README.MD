@@ -84,7 +84,7 @@ This logic ensures reliable exit regardless of robot orientation.
 
 ```
 TREB_Robot/
-├── treb_state_machine.c   # Main ROBOTC program
+├── Robot.c   # Main ROBOTC program
 └──  README.md              # Project documentation
 ```
 
